@@ -14,6 +14,7 @@ cálculos, armazenados no segundo vetor.
 
 function validaproc() {
 
+ 
   let i;
   let vetorIncial = [];
   let valorInformado = 0;
